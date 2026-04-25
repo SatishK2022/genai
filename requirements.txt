@@ -7,3 +7,6 @@ langchain-google-genai
 langchain-ollama
 langchain-groq
 langchain-community
+pypdf
+beautifulsoup4
+wikipedia
